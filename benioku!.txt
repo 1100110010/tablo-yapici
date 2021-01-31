@@ -1,0 +1,1 @@
+hey! beni kullanmadan önce "pip install prettytable" komutunu kullanmayı unutma, iyi eğlenceler :)
